@@ -14,11 +14,11 @@ I'm a passionate data professional with experience in AWS cloud services, Python
 - **Visualization**: Experienced in creating dynamic and interactive dashboards and reports using Grafana and Tableau.
 
 ## Portfolio
-Check out some of my projects and analyses:
+Please check out some of my projects and analyses:
 - [Project 1: Data Pipeline for Real-time Analytics of weather polution](https://github.com/siamakru/Weather-Polution)
 - [Project 2: Optimizing the LPG Production in Environmental Sensor Telemetry Data](https://github.com/siamakru/SE_Sample/tree/main)
 
 ## Contact Me
-Feel free to reach out for collaboration or inquiries:
+Please feel free to reach out for collaboration or inquiries:
 - Email: siamak.rouzmeh@outlook.de
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/siamak-rouzmeh/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/siamak-rouzmeh/)
