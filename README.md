@@ -1,7 +1,3 @@
-
-# My Profile
-
-
 ## About Me
 I'm a passionate data professional with experience in AWS cloud services, Python programming, SQL databases, and visualization tools like Grafana and Tableau. I specialize in building robust data pipelines, conducting insightful data analysis, and creating compelling data visualizations.
 
