@@ -8,7 +8,7 @@ I'm a passionate data professional with experience in AWS cloud services, Python
 - **API Integration**: Experience working with various APIs for data extraction and integration.
 
 ## Experience
-- **Data Engineering**: Expriment in designing, implementing, and maintaining data pipelines on AWS using services like S3, Lambda, Glue, Athena.
+- **Data Engineering**: Experience in designing, implementing, and maintaining data pipelines on AWS using services like S3, Lambda, Glue, Athena.
 - **Data Analysis**: Skilled in performing exploratory data analysis (EDA), statistical analysis, and deriving actionable insights from data.
 - **Data Scientist**: Applying Supervised and unsupervised Machine Learning Models on tabular and timeseries data
 - **Visualization**: Experienced in creating dynamic and interactive dashboards and reports using Grafana and Tableau.
