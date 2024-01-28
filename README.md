@@ -16,6 +16,7 @@ I'm a passionate data professional with experience in AWS cloud services, Python
 ## Portfolio
 Please check out some of my projects and analyses:
 - [Project 1: Data Pipeline for Real-time Analytics of weather polution](https://github.com/siamakru/Weather-Polution)
+- [Project 1: Predict Respond of Rheumatology Patients](https://github.com/siamakru/Applied-ML-on-Rheumatology)
 - [Project 2: Optimizing the LPG Production in Environmental Sensor Telemetry Data](https://github.com/siamakru/SE_Sample/tree/main)
 
 ## Contact Me
