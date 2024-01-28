@@ -6,12 +6,13 @@ I'm a passionate data professional with experience in AWS cloud services, Python
 - **Cloud Services**: Amazon Web Services (AWS)
 - **Data Visualization**: Grafana, Tableau
 - **API Integration**: Experience working with various APIs for data extraction and integration.
+- **Agile Methodology**: Experience working in agiled time managment accomplishing milestones
 
 ## Experience
 - **Data Engineering**: Experience in designing, implementing, and maintaining data pipelines on AWS using services like S3, Lambda, Glue, Athena.
 - **Data Analysis**: Skilled in performing exploratory data analysis (EDA), statistical analysis, and deriving actionable insights from data.
 - **Data Scientist**: Applying Supervised and unsupervised Machine Learning Models on tabular and timeseries data
-- **Visualization**: Experienced in creating dynamic and interactive dashboards and reports using Grafana and Tableau.
+- **Visualization**: Proficient in Agile Methodology with a demonstrated ability to effectively manage time and deliverables, consistently achieving project milestones.
 
 ## Portfolio
 Please check out some of my projects and analyses:
